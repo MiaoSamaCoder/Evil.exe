@@ -1,5 +1,5 @@
 # Evil.exe  
-| [:cn:简体中文:cn:](./README.md) | [:uk:English:uk:](./README.md) |  
+| [:cn:简体中文:cn:](#trollface) | [:uk:English:uk:](#trollface) |  
 ## Lincese  
 Use the [MIT LICNESE](./LICENSE)  
 >MIT License
@@ -24,4 +24,5 @@ Use the [MIT LICNESE](./LICENSE)
 >OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 >SOFTWARE.
 ###### Copyright 2020 MiaoSamaCoder All Rights Reserved.
+### trollface
 :trollface:
