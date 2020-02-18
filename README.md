@@ -1,5 +1,5 @@
 # Evil.exe  
-| [:cn:简体中文:cn:](./Docs/chinese-README.md) | [:uk:English:uk:](./Docs/chinese-README.md) |  
+| [:cn:简体中文:cn:](./README.md) | [:uk:English:uk:](./README.md) |  
 ## Lincese  
 Use the [MIT LICNESE](./LICENSE)  
 >MIT License
@@ -24,3 +24,4 @@ Use the [MIT LICNESE](./LICENSE)
 >OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 >SOFTWARE.
 ###### Copyright 2020 MiaoSamaCoder All Rights Reserved.
+:trollface:
