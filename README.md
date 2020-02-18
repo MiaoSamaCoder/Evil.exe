@@ -1,5 +1,5 @@
 # Evil.exe  
-| [:cn:简体中文:cn:](./Docs/chinese-README.md) | [:en:English:en:](./Docs/chinese-README.md) |  
+| [:cn:简体中文:cn:](./Docs/chinese-README.md) | [:uk:English:uk:](./Docs/chinese-README.md) |  
 ## Lincese  
 Use the [MIT LICNESE](./LICENSE)  
 >MIT License
